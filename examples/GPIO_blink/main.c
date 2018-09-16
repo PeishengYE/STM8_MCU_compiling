@@ -10,6 +10,6 @@ void main() {
 
     while (1) {
         PD_ODR ^= (1 << LED_PIN);
-        delay_ms(250);
+        delay_ms(1250);
     }
 }

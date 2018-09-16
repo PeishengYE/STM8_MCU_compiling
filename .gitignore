@@ -1,0 +1,6 @@
+/stm8
+*.asm
+*.lst
+*.rel
+*.rst
+*.sym

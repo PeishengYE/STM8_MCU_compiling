@@ -1,6 +1,7 @@
 export PATH := $(PATH):$(HOME)/local/sdcc/bin
 
-MCU  = stm8s003f3
+#MCU  = stm8s003f3
+MCU  = stm8s105?4
 ARCH = stm8
 
 F_CPU   ?= 2000000
